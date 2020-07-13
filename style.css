@@ -31,13 +31,13 @@ body {
 }
 
 .info {
-    width: 66, 67%;
+    width: 66.67%;
     height: 100%;
-    margin-left: 5%;
+    margin: 0 5%;
 }
 
 .avt_frame {
-    width: 75%;
+    width: 50%;
     height: 50%;
     margin: auto;
     border: 4px pink solid;
