@@ -79,6 +79,7 @@ a {
 
 @media (max-width:739px) {
     .container {
+        width: 80%;
         display: block;
     }
 }
